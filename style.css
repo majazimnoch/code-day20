@@ -10,6 +10,16 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+.p-container {
+    margin: 25% auto;
+    max-width: 400px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 #cookiePopup {
   background-color: aliceblue;
   position: absolute;
