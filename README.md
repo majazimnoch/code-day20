@@ -1,4 +1,4 @@
-# Website which dispalys a cookie consent banner
+# Website which displays a cookie consent banner
 ## Intro
 This is the twentieth project of my 30-day coding challenge. The project includes following tech stuff: HTML, CSS, JavaScript.
 
